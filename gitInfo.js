@@ -25,8 +25,8 @@ let gitHubDefinition = "GitHub is a website that can hold all of your coding pro
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
-
+let gitInitDefinition = "Git init creates a new repository"
+    console.log(gitInitDefinition);
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
