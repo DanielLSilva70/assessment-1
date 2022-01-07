@@ -76,4 +76,5 @@ let gitCommitCode = "git commit -m needs a messagse"
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+let gitPushDefinition = 'Git push uploads your code into your github from your local cp to the internet'
+    console.log(gitPushDefinition);
