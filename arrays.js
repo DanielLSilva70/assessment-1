@@ -7,7 +7,8 @@ console.log(faveColors.slice());
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
-//CODE HERE
+colorCopy = faveColors.push('blue');
+console.log(faveColors)
 
 //////////////////PROBLEM 3////////////////////
 /*
