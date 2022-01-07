@@ -33,8 +33,8 @@ let gitInitDefinition = "Git init creates a new repository"
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
-
+let gitCloneDefinition = "Targets a existing repository and makes a clone of it"
+    console.log(gitCloneDefinition);
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
