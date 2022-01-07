@@ -9,8 +9,8 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
-
+let gitDefinition = "Git is a program that help navigate through projects and helps track sets of files"
+console.log(gitDefinition);
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
