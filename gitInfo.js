@@ -17,8 +17,8 @@ console.log(gitDefinition);
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
-
+let gitHubDefinition = "GitHub is a website that can hold all of your coding projects."
+    console.log(gitHubDefinition);
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
