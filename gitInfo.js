@@ -65,8 +65,10 @@ let gitAddCode = "git add ."
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
-
+let gitCommitDefinition = "git commit means you making a checkpoint of your latest progress of your code"
+    console.log(gitCommitDefinition);
+let gitCommitCode = "git commit -m needs a messagse"  
+    console.log(gitCommitCode);  
 
 //////////////////PROBLEM 8////////////////////
 /*
