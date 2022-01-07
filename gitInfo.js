@@ -52,8 +52,10 @@ let gitStatusDefinition = 'Git status lets you check if your repository has been
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
-
+let gitAddDefinition = "Git add, adds your code into your repositroy"  
+    console.log(gitAddDefinition);
+let gitAddCode = "git add ."    
+    console.log(gitAddCode);
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
