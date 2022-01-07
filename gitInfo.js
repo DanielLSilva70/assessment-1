@@ -41,8 +41,8 @@ let gitCloneDefinition = "Targets a existing repository and makes a clone of it"
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
-
+let gitStatusDefinition = 'Git status lets you check if your repository has been commited or not'
+    console.log(gitStatusDefinition);
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
